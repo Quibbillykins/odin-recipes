@@ -8,4 +8,4 @@ Still very very new. Learning how to write GOOD commit messages is a bit challen
 
 [INSERT WHAT TECHNIQUES HAVE BEEN USED HERE]
 
-All links are not owned by me and all their rights belong to them not me. I am using these for educational purposes.
+All links and images are not owned by me and all their rights belong to their respective owners, not me. I am using these links and images for educational purposes. All images are taken off of https://unsplash.com/
