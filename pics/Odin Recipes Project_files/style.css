@@ -1,0 +1,34 @@
+/* style.css */
+
+/* index styling */
+
+* {
+    box-sizing: border-box;
+    margin: 8px;
+}
+
+body {
+    background-color: beige;
+}
+
+img {
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(151, 148, 148, 0.473);
+    border-radius: 8px;
+}
+
+.listmain {
+    display: inline-block;
+    background-color: rgba(151, 148, 148, 0.473);
+    border-radius: 8px;
+}
+
+.li1 {
+    border: 8px;
+}
