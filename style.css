@@ -4,6 +4,7 @@
 
 * {
     box-sizing: border-box;
+    font-family: sans-serif;
     margin: 8px;
 }
 
@@ -37,4 +38,3 @@ button {
     padding-left: 200px;
     padding-right: 200px;
 }
-
